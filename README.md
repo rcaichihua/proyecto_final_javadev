@@ -15,13 +15,16 @@ Se pide crear los servicios REST para
  Demo  </br>
 
   1. CRUDS MATRICULA (LSITAR)
+ </br>
   ![Crudjsp](https://github.com/rcaichihua/proyecto_final_javadev/blob/main/src/main/java/com/caichihua/trabajo_final_caichihua/evidencias/listarMatricula.png)
   
   1. Listar estudiantes ordenados de forma descendente por edad usando programación
 funcional
-
+ </br>
  ![Crudjsp](https://github.com/rcaichihua/proyecto_final_javadev/blob/main/src/main/java/com/caichihua/trabajo_final_caichihua/evidencias/listarOrdenDescEstudiantes.png)
-  2. Mostrar la relación de cursos matriculados y sus estudiantes correspondientes
+ </br>
+  3. Mostrar la relación de cursos matriculados y sus estudiantes correspondientes
 usando programación funcional (sugerencia, usar un Map<K,V>)
+
  </br>
  ![Crudjsp](https://github.com/rcaichihua/proyecto_final_javadev/blob/main/src/main/java/com/caichihua/trabajo_final_caichihua/evidencias/listarRelacionCursoMatriculadoEstudiante.png)
